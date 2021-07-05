@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    margin-bottom: 45px;
+    font-size: 15px;
+}
+h1{
+    font-size: 50px;
+    text-align: justify;
+    font-weight: 800;
+}
+.first-text-color{
+    color: gray;
+}
+.first-image{
+    margin-left: 133px;
+}
+.order-button{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(lightsalmon,tomato);
+    padding: 15px 15px;
+    border-radius: 20px;
+}
+.first-section{
+   display: flex;
+   padding-left: 5%;
+   margin-top: 80px;
+}
+
+.first-article{
+    margin-top: 150px;
+}
+
+
+.second-text-color{
+    color: orange;
+}
+.third-text-color{
+ color: gray;
+}
