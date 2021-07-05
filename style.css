@@ -1,7 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
-p{
+.third-text-color{
     margin-bottom: 45px;
     font-size: 15px;
 }
@@ -10,11 +11,20 @@ h1{
     text-align: justify;
     font-weight: 800;
 }
+.second-h1{
+    font-size: 40px;
+    color: gray;
+}
 .first-text-color{
     color: gray;
 }
 .first-image{
     margin-left: 133px;
+}
+.second-image{
+    background-repeat: no-repeat;
+    width: 350px;
+    height: auto;
 }
 .order-button{
     text-decoration: none;
@@ -39,4 +49,34 @@ h1{
 }
 .third-text-color{
  color: gray;
+}
+
+.second-section{
+    background: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    padding-left: 260px;
+    padding-top: 70px;
+    margin-top: 80px;
+}
+
+.second-article{
+    margin-left: 288px;
+    margin-top: 55px;
+}
+
+.second-paragraph-tag{
+ text-align: left;
+ margin-bottom: 80px;
+}
+
+.contact-button{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(lightsalmon,tomato);
+    padding: 11px;
+    border-radius: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
