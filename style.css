@@ -183,3 +183,91 @@ margin-left: 27%;
 .span-color{
     color: tomato;
 }
+
+.most-rated-foods{
+    margin-bottom: 100px;
+
+}
+
+.rated-foods{
+    display: flex;
+}
+
+.vagitable{
+    background-repeat: no-repeat;
+    width: 322px;
+    height: auto;
+    padding-left: 18%;
+    margin-left: 5%;
+    margin-right:5%;
+    
+}
+
+.vagitable1{
+    background-repeat: no-repeat;
+    width: 322px;
+    height: auto;
+    padding-left: 289px;
+}
+
+.vagitable2{
+    background-repeat: no-repeat;
+    width: 324px;
+    height: auto;
+    padding-left: 178px;
+}
+
+.vagitable-name{
+    margin-left: 75px;
+    font-weight: 800;
+}
+
+.vagitable-name1{
+    text-align: center;
+    margin-left: 152px;
+    font-weight: 800;
+}
+.vagitable-name2{
+    text-align: center;
+    margin-top: 18px;
+    font-weight: 800;
+    margin-bottom: 18px;
+}
+.rated-foods1{
+    justify-content: center;
+}
+
+.order-button1{
+    margin-left: 77px;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(blue,cyan);
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.order-button2{
+    margin-left: 48%;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(blue,cyan);
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.order-button3{
+    margin-left: 36%;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(blue,cyan);
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.Most-wanted{
+    color: orange
+}
+
+.most-wanted-h1{
+    color: gray;
+}
