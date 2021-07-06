@@ -17,7 +17,12 @@ h1{
 }
 .third-h1{
     margin-left: 640px;
+    color: gray;
     font-size: 40px;
+}
+.third-p{
+    color: gray;
+    font-size: 15px;
 }
 .first-text-color{
     color: gray;
@@ -35,7 +40,9 @@ h1{
     color: white;
     background: linear-gradient(lightsalmon,tomato);
     padding: 15px 15px;
-    border-radius: 20px;
+    border-radius: 30px;
+    padding-left: 40px;
+    padding-right: 37px;
 }
 .first-section{
    display: flex;
@@ -84,6 +91,8 @@ h1{
     border-radius: 30px;
     padding-left: 25px;
     padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 
@@ -129,7 +138,7 @@ margin-bottom: 50px;
 }
 
 .third-section{
-    margin-bottom: 125px;
+    margin-bottom: 105px;
 }
 .fourth-section{
    display: flex;
