@@ -15,6 +15,10 @@ h1{
     font-size: 40px;
     color: gray;
 }
+.third-h1{
+    margin-left: 640px;
+    font-size: 40px;
+}
 .first-text-color{
     color: gray;
 }
@@ -79,4 +83,73 @@ h1{
     border-radius: 30px;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+
+.third-article{
+text-align: center;
+margin-bottom: 30px;
+}
+
+.photos-parent{
+ display: flex;
+}
+
+.food-picture{
+    height: 300px;
+    width: 20%;
+}
+
+.food-picture1{
+    height: 300px;
+    width: 20%;
+}
+
+.food-picture2{
+    height: 300px;
+    width: 20%;
+    margin-left: 180px;
+}
+
+.recipes-item{
+    width: 30%;
+    height: auto;
+    padding-left: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 38px gray;
+    border-radius: 30px;
+}
+
+.recipies-img{
+    width: 322px;
+    padding-top: 3%;
+    height: auto;
+}
+
+.third-section{
+    margin-bottom: 125px;
+}
+.fourth-section{
+   display: flex;
+   box-shadow: 5px 5px 35px gray;
+   border-radius: 20px;
+   margin-left: 5%;
+   margin-right: 5%;
+}
+.social-media-parents{
+    width: 33.33%;
+    display: flex;
+}
+
+
+.social-media{
+margin-left: 34%;
+}
+
+.social-media1{
+    margin-left: 338px;
+}
+.social-media2{
+    margin-left: 324px;
 }
