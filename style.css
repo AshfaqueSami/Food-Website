@@ -207,7 +207,7 @@ margin-left: 27%;
     background-repeat: no-repeat;
     width: 322px;
     height: auto;
-    padding-left: 289px;
+    padding-left: 222px;
 }
 
 .vagitable2{
@@ -218,13 +218,13 @@ margin-left: 27%;
 }
 
 .vagitable-name{
-    margin-left: 75px;
+    margin-left: 91px;
     font-weight: 800;
 }
 
 .vagitable-name1{
     text-align: center;
-    margin-left: 152px;
+    margin-left: 77px;
     font-weight: 800;
 }
 .vagitable-name2{
@@ -238,7 +238,7 @@ margin-left: 27%;
 }
 
 .order-button1{
-    margin-left: 77px;
+    margin-left: 90px;
     text-decoration: none;
     color: white;
     background: linear-gradient(blue,cyan);
@@ -247,7 +247,7 @@ margin-left: 27%;
 }
 
 .order-button2{
-    margin-left: 48%;
+    margin-left: 42%;
     text-decoration: none;
     color: white;
     background: linear-gradient(blue,cyan);
